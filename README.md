@@ -2,4 +2,4 @@
 
 Made following [this tutorial](https://github.com/adrianhajdin/project_modern_ui_ux_gpt3) by Adrian Hajdin - JavaScript Mastery
 
-Live view [here](annoyedd-trucks.surge.sh) (with Surge)
+Live view [here](http://annoyedd-trucks.surge.sh) (with Surge)
